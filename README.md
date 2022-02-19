@@ -1,5 +1,7 @@
 # pinia-test
 
+## pinia state management
+
 ## Project setup
 ```
 yarn install
